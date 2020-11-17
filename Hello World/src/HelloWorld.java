@@ -6,7 +6,7 @@ public class HelloWorld {
 		System.out.println("Jin Young Seo");
 		System.out.println("20192825");
 		System.out.println("컴퓨터소프트웨어공학과");
-		System.out.println("sophomore");
+		
 	}
 
 }
